@@ -47,6 +47,7 @@ contract Motorcycle is Vehicle {
 }
 
 //Requirement 3) Then create smart contracts for “Alto Mehran, “ Hino, Yamaha, that may inherit the relevant smart contract(s) as in step 2.
+
 contract AltoMehran is Cars {
     function service() public pure override returns (string memory) {
         string memory message = "Alto Mehran car is being serviced";
