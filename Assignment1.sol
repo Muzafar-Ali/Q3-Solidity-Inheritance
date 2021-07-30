@@ -68,7 +68,6 @@ contract Yamaha is Motorcycle {
 }
 
 // Requirement 4) Create 3 Service Stations for each vehicle type, with the same function “vehicleService
-
 contract ServiceStationCars {
     function vehicelService() public returns (string memory) {
         AltoMehran vehicle = new AltoMehran();
