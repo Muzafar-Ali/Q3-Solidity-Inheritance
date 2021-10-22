@@ -1,6 +1,7 @@
-# Q3-Solidity-Assignment-1
-# Roll No:	IOT045448
-# Batch 34
+# Q3-Solidity Inheritance 1
+
+ Roll No:	IOT045448
+ Batch 34
 
 
 1) Create a first "ParentVehicle" contract that includes the following functions
